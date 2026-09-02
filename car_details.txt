@@ -1,0 +1,172 @@
+====================================================================================================================================
+                        APEX AUTO WHEELS - COMPREHENSIVE FLEET CATALOG & VEHICLE DETAILS RECORD
+====================================================================================================================================
+Official Business Record & Inventory Specification Sheet
+Generated on: 2026-09-02 | Currency: USD ($) | Service Threshold: 10,000 KM
+====================================================================================================================================
+
+[SECTION 1: COMPLETE FLEET VEHICLE SPECIFICATIONS & STATUS]
+
++-----+------------+---------------+-----------------------+------+-------------+--------------+-----------+-------+------------+------------+-------------+------------+--------------------+
+| ID  | PLATE NO.  | MAKE / BRAND  | MODEL NAME            | YEAR | CATEGORY    | TRANSMISSION | FUEL TYPE | SEATS | DAILY RATE | HOURLY     | DEPOSIT REQ | ODOMETER   | STATUS             |
++-----+------------+---------------+-----------------------+------+-------------+--------------+-----------+-------+------------+------------+-------------+------------+--------------------+
+| 101 | CAR-8821   | Toyota        | Camry SE              | 2023 | Sedan       | Automatic    | Petrol    | 5     | $55.00/day | $10.00/hr  | $200.00     | 18,500 KM  | [AVAILABLE] Ready  |
+| 102 | SUV-4930   | Ford          | Explorer XLT          | 2023 | SUV         | Automatic    | Petrol    | 7     | $85.00/day | $15.00/hr  | $300.00     | 24,200 KM  | [AVAILABLE] Ready  |
+| 103 | LUX-1102   | BMW           | 530i M-Sport          | 2024 | Luxury      | Automatic    | Hybrid    | 5     | $140.00/d  | $25.00/hr  | $500.00     | 9,400 KM   | [AVAILABLE] Ready  |
+| 104 | EV-7741    | Tesla         | Model 3 Long Range    | 2023 | Sedan       | Automatic    | Electric  | 5     | $75.00/day | $14.00/hr  | $300.00     | 15,300 KM  | [AVAILABLE] Ready  |
+| 105 | SUV-9912   | Toyota        | RAV4 Hybrid           | 2022 | SUV         | Automatic    | Hybrid    | 5     | $65.00/day | $12.00/hr  | $250.00     | 31,200 KM  | [RENTED] (On-Road) |
+| 106 | VAN-3345   | Mercedes-Benz | Sprinter Passenger    | 2022 | Minivan     | Automatic    | Diesel    | 12    | $130.00/d  | $22.00/hr  | $400.00     | 42,000 KM  | [AVAILABLE] Ready  |
+| 107 | BIK-6619   | Yamaha        | MT-07                 | 2023 | Motorcycle  | Manual       | Petrol    | 2     | $45.00/day | $8.00/hr   | $150.00     | 6,800 KM   | [AVAILABLE] Ready  |
+| 108 | TRK-5520   | Ford          | F-150 SuperCrew       | 2022 | Commercial  | Automatic    | Diesel    | 5     | $95.00/day | $18.00/hr  | $350.00     | 38,600 KM  | [AVAILABLE] Ready  |
+| 109 | CAR-2219   | Honda         | Civic Touring         | 2023 | Sedan       | Automatic    | Petrol    | 5     | $50.00/day | $9.00/hr   | $200.00     | 21,000 KM  | [AVAILABLE] Ready  |
+| 110 | LUX-7788   | Porsche       | Macan GTS             | 2024 | Luxury      | Automatic    | Petrol    | 5     | $180.00/d  | $30.00/hr  | $600.00     | 5,100 KM   | [MAINTENANCE]      |
++-----+------------+---------------+-----------------------+------+-------------+--------------+-----------+-------+------------+------------+-------------+------------+--------------------+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+[SECTION 2: INDIVIDUAL VEHICLE PROFILES & TECHNICAL DETAILS]
+
+1. VEHICLE ID #101: Toyota Camry SE [CAR-8821]
+   - Class          : Full-Size Sedan
+   - Engine/Fuel    : 2.5L 4-Cylinder Petrol (Dynamic Force)
+   - Transmission   : 8-Speed Direct Shift Automatic
+   - Seating/Cargo  : 5 Passengers | 428L Trunk Capacity
+   - Daily Rate     : $55.00 / day | Hourly: $10.00 / hr
+   - Security Deposit: $200.00 (Refundable upon safe check-in)
+   - Current Odometer: 18,500 KM
+   - Operational Status: AVAILABLE (Inspected & ready for hire)
+
+2. VEHICLE ID #102: Ford Explorer XLT [SUV-4930]
+   - Class          : 3-Row Midsize SUV
+   - Engine/Fuel    : 2.3L EcoBoost Turbocharged Petrol
+   - Transmission   : 10-Speed SelectShift Automatic
+   - Seating/Cargo  : 7 Passengers | 3-Row Flexible Seating | 514L Cargo
+   - Daily Rate     : $85.00 / day | Hourly: $15.00 / hr
+   - Security Deposit: $300.00
+   - Current Odometer: 24,200 KM
+   - Operational Status: AVAILABLE
+
+3. VEHICLE ID #103: BMW 530i M-Sport [LUX-1102]
+   - Class          : Executive Luxury Sedan
+   - Engine/Fuel    : 2.0L TwinPower Turbocharged Mild-Hybrid
+   - Transmission   : 8-Speed Steptronic Sport Automatic
+   - Seating/Cargo  : 5 Passengers | Executive Leather Interior | 530L Trunk
+   - Daily Rate     : $140.00 / day | Hourly: $25.00 / hr
+   - Security Deposit: $500.00
+   - Current Odometer: 9,400 KM
+   - Operational Status: AVAILABLE
+
+4. VEHICLE ID #104: Tesla Model 3 Long Range [EV-7741]
+   - Class          : Premium Electric Sedan
+   - Engine/Fuel    : Dual Motor All-Wheel Drive Electric (Range: 576 KM)
+   - Transmission   : 1-Speed Fixed Gear Automatic
+   - Seating/Cargo  : 5 Passengers | Front Trunk (Frunk) + Rear Trunk
+   - Daily Rate     : $75.00 / day | Hourly: $14.00 / hr
+   - Security Deposit: $300.00
+   - Current Odometer: 15,300 KM
+   - Operational Status: AVAILABLE
+
+5. VEHICLE ID #105: Toyota RAV4 Hybrid [SUV-9912]
+   - Class          : Compact All-Wheel Drive Hybrid SUV
+   - Engine/Fuel    : 2.5L 4-Cylinder Hybrid System
+   - Transmission   : Electronic Continuously Variable (eCVT)
+   - Seating/Cargo  : 5 Passengers | High Ground Clearance
+   - Daily Rate     : $65.00 / day | Hourly: $12.00 / hr
+   - Security Deposit: $250.00
+   - Current Odometer: 31,200 KM
+   - Operational Status: RENTED (Active Contract #301 - Customer: Sophia Martinez)
+
+6. VEHICLE ID #106: Mercedes-Benz Sprinter Passenger [VAN-3345]
+   - Class          : Group Transport Minivan
+   - Engine/Fuel    : 2.0L 4-Cylinder Turbo Diesel
+   - Transmission   : 9G-TRONIC Automatic
+   - Seating/Cargo  : 12 Passengers | High Roof Executive Configuration
+   - Daily Rate     : $130.00 / day | Hourly: $22.00 / hr
+   - Security Deposit: $400.00
+   - Current Odometer: 42,000 KM
+   - Operational Status: AVAILABLE
+
+7. VEHICLE ID #107: Yamaha MT-07 [BIK-6619]
+   - Class          : Hyper Naked Sport Motorcycle
+   - Engine/Fuel    : 689cc CP2 Parallel Twin Engine (Petrol)
+   - Transmission   : 6-Speed Manual
+   - Seating/Cargo  : 2 Passengers
+   - Daily Rate     : $45.00 / day | Hourly: $8.00 / hr
+   - Security Deposit: $150.00
+   - Current Odometer: 6,800 KM
+   - Operational Status: AVAILABLE
+
+8. VEHICLE ID #108: Ford F-150 SuperCrew [TRK-5520]
+   - Class          : Commercial Utility Truck
+   - Engine/Fuel    : 3.0L Power Stroke Turbo Diesel
+   - Transmission   : 10-Speed Automatic
+   - Seating/Cargo  : 5 Passengers | 5.5ft Bed with 3,325 lbs Payload Capacity
+   - Daily Rate     : $95.00 / day | Hourly: $18.00 / hr
+   - Security Deposit: $350.00
+   - Current Odometer: 38,600 KM
+   - Operational Status: AVAILABLE
+
+9. VEHICLE ID #109: Honda Civic Touring [CAR-2219]
+   - Class          : Compact Sedan
+   - Engine/Fuel    : 1.5L Turbocharged 4-Cylinder Petrol
+   - Transmission   : Continuously Variable Transmission (CVT)
+   - Seating/Cargo  : 5 Passengers | Bose Premium Audio System
+   - Daily Rate     : $50.00 / day | Hourly: $9.00 / hr
+   - Security Deposit: $200.00
+   - Current Odometer: 21,000 KM
+   - Operational Status: AVAILABLE
+
+10. VEHICLE ID #110: Porsche Macan GTS [LUX-7788]
+    - Class          : High-Performance Luxury Compact SUV
+    - Engine/Fuel    : 2.9L Twin-Turbo V6 (434 HP Petrol)
+    - Transmission   : 7-Speed Porsche Doppelkupplung (PDK) Automatic
+    - Seating/Cargo  : 5 Passengers | Sport Chrono Package
+    - Daily Rate     : $180.00 / day | Hourly: $30.00 / hr
+    - Security Deposit: $600.00
+    - Current Odometer: 5,100 KM
+    - Operational Status: MAINTENANCE (Brake System Servicing in progress)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+[SECTION 3: RENTAL ADD-ON PACKAGES & PRICING POLICY]
+
++--------------------------------------------------+-------------+-----------------------------------------------------------+
+| ADD-ON / PROTECTION OPTION                       | RATE        | DESCRIPTION                                               |
++--------------------------------------------------+-------------+-----------------------------------------------------------+
+| 1. Basic CDW (Collision Damage Waiver)           | $15.00 /day | Limits customer financial liability for vehicle damages   |
+| 2. Comprehensive Full Protection (Zero Excess)   | $30.00 /day | Complete zero-deductible coverage including glass & tires |
+| 3. GPS Satellite Navigation                      | $8.00  /day | Pre-loaded voice navigation unit with live traffic        |
+| 4. Child Safety Seat (Toddler / Booster)         | $10.00 /day | ISOFIX certified safety seat for infants and children     |
+| 5. Additional Authorized Driver                  | $12.00 /day | Legally authorizes a second verified driver               |
+| 6. Complimentary Daily Mileage Allowance         | 250 KM /day | Free included travel per rental day                       |
+| 7. Excess Mileage Surcharge Rate                 | $0.35  /km  | Applied per kilometer travelled beyond allowance          |
+| 8. Standard Overdue / Late Return Penalty        | $50.00 /day | Penalty fee per 24 hours overdue                          |
+| 9. Missing Fuel Refueling Surcharge              | $45.00 flat | Applied if returned below checkout fuel level             |
++--------------------------------------------------+-------------+-----------------------------------------------------------+
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+[SECTION 4: ACTIVE ON-ROAD RENTAL CONTRACTS]
+
+- Contract ID   : Booking #301
+- Customer Name : Sophia Martinez (Phone: +1-555-0188 | License: DL-CA-44551)
+- Vehicle Hired : Toyota RAV4 Hybrid [Plate: SUV-9912]
+- Rental Period : 2026-09-01 to 2026-09-05 (4 Days Duration)
+- Pickup Mileage: 31,200 KM
+- Deposit Paid  : $250.00
+- Add-Ons Active: Basic CDW Insurance ($15/d) + GPS Satellite ($8/d)
+- Total Amount  : $352.00
+- Status        : ACTIVE (Vehicle currently on-road)
+
+------------------------------------------------------------------------------------------------------------------------------------
+
+[SECTION 5: SYSTEM ACCESS & CREDENTIALS]
+
+- Administrator Login : Username: admin | Password: admin123
+- Front Desk Login    : Username: staff | Password: staff123
+- Web Application URL : http://localhost:5173/
+- Native C Executable : vehicle_rental_centre.exe
+
+====================================================================================================================================
+                                      *** END OF CAR DETAILS & FLEET CATALOG ***
+====================================================================================================================================
